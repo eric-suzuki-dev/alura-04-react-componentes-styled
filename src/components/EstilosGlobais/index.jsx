@@ -1,4 +1,4 @@
-import  createGlobalStyle  from "styled-components";
+import  {createGlobalStyle}  from "styled-components";
 import GandhiSansRegular from './fonts/GandhiSans-Regular.otf'
 import GandhiSansBold from './fonts/GandhiSans-Bold.otf'
 
